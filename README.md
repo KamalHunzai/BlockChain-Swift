@@ -1,2 +1,2 @@
 # BlockChain-Swift
-This is personal learning and understanding project.
+This is personal learning project.
